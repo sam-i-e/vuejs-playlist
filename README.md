@@ -1,2 +1,1 @@
-# vuejs-playlist
-cli-project
+A Vue.js project
